@@ -9,7 +9,9 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-
+  turbopack: {
+    root: "/Users/victorsamuel/Desktop/finstore-premiere-templates/template-01-penningtons",
+  },
 };
 
 export default nextConfig;
